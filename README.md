@@ -1,7 +1,11 @@
+
 🎮 Tic Tac Toe Game
 
--A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
--Play against a friend, track the winner, and enjoy a smooth, responsive UI.
+A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
+- Play against a friend  
+- Track the winner  
+- Enjoy a smooth UI with responsive design  
+
 
 ✨ Features
 
@@ -19,12 +23,12 @@
 
 🚀 How to Play
 
--Clone the repo:
-git clone https://github.com/vanshikanainn/tic-tac-toe.gi
+Clone the repo:
 
--Open index.html in your browser
+-git clone https://github.com/vanshikanainn/tic-tac-toe.git
+-Open index.html in your browser.
+-Take turns placing X and O until someone wins or the game draws.
 
--Take turns placing X and O until someone wins or the game draws
 
 📌 Future Improvements
 
